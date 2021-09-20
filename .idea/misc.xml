@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Kotlin/AS/book projects/NerdLauncher/app/src/main/res/layout/activity_nerd_launcher.xml" value="0.1" />
+        <entry key="..\:/Kotlin/AS/book projects/NerdLauncher/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Kotlin/AS/book projects/NerdLauncher/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Kotlin/AS/book projects/NerdLauncher/app/src/main/res/layout/activity_nerd_launcher.xml" value="0.2" />
+        <entry key="..\:/Kotlin/AS/book projects/NerdLauncher/app/src/main/res/layout/new_layout.xml" value="0.4" />
+        <entry key="..\:/Kotlin/AS/book projects/NerdLauncher/app/src/main/res/layout/sdv.xml" value="0.1296875" />
+        <entry key="..\:/Kotlin/AS/book projects/NerdLauncher/app/src/main/res/layout/text_and_image_activity.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
